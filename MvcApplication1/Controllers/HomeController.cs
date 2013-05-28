@@ -12,7 +12,7 @@ namespace MvcApplication1.Controllers
         public ActionResult Index()
         {
             ViewData["Message"] = "Welcome to 1!";
-
+            ViewData["Message2"] = "Modified to add changes on 2";
             return View();
         }
 
