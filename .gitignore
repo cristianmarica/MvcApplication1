@@ -1,0 +1,5 @@
+*.config
+*.suo
+MvcApplication1/bin
+MvcApplication1/obj
+*.csproj.user
