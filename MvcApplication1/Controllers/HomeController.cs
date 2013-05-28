@@ -11,7 +11,7 @@ namespace MvcApplication1.Controllers
     {
         public ActionResult Index()
         {
-            ViewData["Message"] = "Welcome to 1!";
+            ViewData["Message"] = "Changes from PR 1!";
 
             return View();
         }
