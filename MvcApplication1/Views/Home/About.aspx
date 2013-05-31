@@ -10,6 +10,6 @@
         Content added.
     </p>
     <p>
-        Second content.
+        Second content changed from 1.
     </p>
 </asp:Content>
