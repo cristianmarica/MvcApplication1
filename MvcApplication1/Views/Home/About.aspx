@@ -5,7 +5,7 @@
 </asp:Content>
 
 <asp:Content ID="aboutContent" ContentPlaceHolderID="MainContent" runat="server">
-    <h2>About</h2>
+    <h2>About.bzzzz</h2>
     <p>
         Content added.
     </p>
