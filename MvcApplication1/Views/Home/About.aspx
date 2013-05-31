@@ -9,4 +9,7 @@
     <p>
         Content added.
     </p>
+    <p>
+        Second content.
+    </p>
 </asp:Content>
